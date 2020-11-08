@@ -1,0 +1,34 @@
+.appBar {
+  flex-grow: 1;
+}
+
+.toolbar {
+  display: flex;
+}
+
+.toolbar-button {
+}
+
+.empty-space {
+  flex: auto;
+}
+
+.main {
+  margin-top: 20px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.roman_numerals {
+  width: 100%;
+}
+.arab_numerals {
+  width: 100%;
+  text-align: center;
+}
+
+.paper {
+
+}
+
